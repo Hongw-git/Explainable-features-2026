@@ -1,0 +1,11 @@
+# Data Analysis & Machine Learning
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+
+# Interactive Environment
+ipykernel
+notebook
